@@ -22,6 +22,8 @@ find: fd
 
 xcp: https://crates.io/crates/xcp
 
+*   Nutzt `copy_file_range` (effizienteste Methode)
+
 LWN: [The Linux "copy problem"](https://lwn.net/Articles/789623/)
 
 # Weitere
