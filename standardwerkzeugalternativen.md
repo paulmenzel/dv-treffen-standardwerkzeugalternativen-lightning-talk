@@ -20,4 +20,15 @@ find: fd
 
 # Alternative: cp
 
-xcp
+xcp: https://crates.io/crates/xcp
+
+LWN: [The Linux "copy problem"](https://lwn.net/Articles/789623/)
+
+# Weitere
+
+1.  hexdump → hexyl
+1.  cat → bat
+1.  du → diskus
+1.  cloc → tokei
+
+# 
