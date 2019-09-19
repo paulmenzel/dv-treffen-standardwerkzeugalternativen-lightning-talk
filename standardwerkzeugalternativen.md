@@ -32,5 +32,3 @@ LWN: [The Linux "copy problem"](https://lwn.net/Articles/789623/)
 1.  cat → bat
 1.  du → diskus
 1.  cloc → tokei
-
-# 
